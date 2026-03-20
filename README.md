@@ -1,12 +1,7 @@
 ## Fase 4- Hardening, Remediação e Prevenção Ativa
 
 Este projeto faz parte de uma série de 4 etapas:
-
-- Fase 1: Acesso Inicial
-- Fase 2: Movimentação Lateral
-- Fase 3: Escala de Privilégio
-- Fase 4: Hardening e Defesa (Você está aqui)
-
+📂 [Fase 1](https://github.com/Jaqueline-Cyber-PT/PixelForge-AD-Phase1-Recon) > [Fase 2](https://github.com/Jaqueline-Cyber-PT/PixelForge-AD-Phase2-Audit) > [Fase 3](https://github.com/Jaqueline-Cyber-PT/PixelForge-AD-Phase3-Exploit) > **Fase 4: Hardening e Defesa**
 
 ### **1. Introdução: Estratégia de Resiliência**
 
