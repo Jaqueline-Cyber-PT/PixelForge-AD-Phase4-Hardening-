@@ -1,12 +1,12 @@
 ## Fase 4- Hardening, Remediação e Prevenção Ativa
 
-### **Habilidades Demonstradas**
+Este projeto faz parte de uma série de 4 etapas:
 
-- Hardening de Active Directory
-- Gestão de GPO (Group Policy Objects)
-- Proteção de Identidade e Memória
-- Segurança de Protocolos de Rede
-- Auditoria Avançada e Visibilidade
+- Fase 1: Acesso Inicial
+- Fase 2: Movimentação Lateral
+- Fase 3: Escala de Privilégio
+- Fase 4: Hardening e Defesa (Você está aqui)
+
 
 ### **1. Introdução: Estratégia de Resiliência**
 
@@ -79,3 +79,11 @@ Embora a fase atual tenha estabelecido uma base sólida de *Hardening*, a evolu�
 - **Estratégias de Deception (Honeytokens):** Criação de usuários e objetos falsos no Active Directory com privilégios atraentes, servindo como "armadilhas" para detectar intrusos na fase de enumeração.
 - **Privileged Access Management (PAM):** Implementação de uma solução para gerenciamento de contas de alto privilégio com senhas rotativas e sessões monitoradas (Just-in-Time Access).
 - **Tiered Administration Model:** Segregação total de contas administrativas por níveis de criticidade (Tier 0, 1 e 2), garantindo que credenciais de Domain Admin nunca toquem estações de trabalho de usuários comuns.
+
+### **Habilidades Demonstradas**
+
+- Hardening de Active Directory
+- Gestão de GPO (Group Policy Objects)
+- Proteção de Identidade e Memória
+- Segurança de Protocolos de Rede
+- Auditoria Avançada e Visibilidade
